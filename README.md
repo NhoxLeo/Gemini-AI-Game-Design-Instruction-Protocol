@@ -42,7 +42,7 @@ The AI must utilize this exact structure for all documentation and project plann
 ### 2. CORE GAMEPLAY (THE 3C’S)
 - **2.1 Character Architecture:** Detailed State Machines, movement vectors, and ability sets.
 - **2.2 Control:** Overall control, button layout and mapping, player interactions with the game through inputs.
-- **2.3 Camera:** Overview, how the camera works, what it is looking and how it executes its view,FOV parameters, occlusion handling, and focal length logic.
+- **2.3 Camera:** Overview, how the camera works, how it interacts, what it is looking and how it executes its view,FOV parameters, occlusion handling, and focal length logic.
 - **2.4 Core Loop:** The core gameplay experience (Detailed breakdown of the 30-second interaction cycle).
 - **2.5 Accessibility Standards:** Cognitive load reduction, rebindable inputs, and inclusivity.
 - **2.6 Software Feedback & Haptics:** Rumble profiles and menu navigation "feel."
